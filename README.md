@@ -17,3 +17,5 @@ The implementation is coded in Python using Keras for building and training the 
  Jheronimus Academy of Data Science (JADS) career day dataset has been used for the training and testing purpose. 
  
  ![Training and Validation Loss](training_validation_loss.png)
+
+References : https://bit.ly/2zpf1nd
