@@ -18,4 +18,4 @@ The implementation is coded in Python using Keras for building and training the 
  
  ![Training and Validation Loss](training_validation_loss.png)
 
-References : https://bit.ly/2zpf1nd
+Credits : https://bit.ly/2zpf1nd
